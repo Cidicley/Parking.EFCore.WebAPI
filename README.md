@@ -7,5 +7,14 @@ Prerequisites
 Asp.Net Core 2
 Entity Framework Core 2.1.14
 
+
+Relacionamento das estidades
+
+Veiculo
+Estabelecimento
+RegistroVeiculo
+
+RegistroVeiculo se relaciona com as entidades Veiculo e Estabelecimento
+
 Author
 Cidicley Rodrigues
