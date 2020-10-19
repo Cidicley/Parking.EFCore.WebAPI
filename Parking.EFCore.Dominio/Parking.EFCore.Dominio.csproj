@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Arma.cs" />
+    <Compile Remove="Batalha.cs" />
+    <Compile Remove="EstabelecimentoRegistroVeivulo.cs" />
+    <Compile Remove="Estacionamento.cs" />
+    <Compile Remove="Heroi.cs" />
+    <Compile Remove="HeroiBatalha.cs" />
+    <Compile Remove="IdentidadeSecreta.cs" />
+  </ItemGroup>
+
+</Project>
